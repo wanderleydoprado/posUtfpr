@@ -1,3 +1,6 @@
+- name: Dar permissão ao Gradle
+  run: chmod +x gradlew
+
 name: Gerar APK Android
 
 on:
